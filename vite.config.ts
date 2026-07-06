@@ -32,7 +32,7 @@ export default defineConfig({
   },
 
   // github pages
-  base: "/CBAdashboard/",
+  base: "/CBAdashboard_v1/",
 
   // File types to support raw imports. Never add .css, .tsx, or .ts files to this.
   assetsInclude: ['**/*.svg', '**/*.csv'],
